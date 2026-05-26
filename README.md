@@ -1,5 +1,3 @@
-<img width="758" height="636" alt="image" src="https://github.com/user-attachments/assets/00586b01-7184-4ef8-9d95-34f82eb57727" /># Exp - 5 STUDENT ENROLLMENT SYSTEM
-
 # AIM:
 
 To draw the UML diagram for Student Course Enrollment System.
